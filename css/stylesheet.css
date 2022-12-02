@@ -8,5 +8,9 @@ body {
 nav ul li {
 	float : left;
 	list-style-type: none;
-	padding-left: 10px;
+	margins : 10px
+	padding-left : 10px;
+	background : orange;
+	
+
 }
