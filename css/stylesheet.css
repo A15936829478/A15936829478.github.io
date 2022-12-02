@@ -11,4 +11,5 @@ nav ul li {
 	margin : 10px;
 	padding-left : 10px;
 	background : green;
+	display : inline;
 }
