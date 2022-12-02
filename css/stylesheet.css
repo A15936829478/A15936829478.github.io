@@ -5,7 +5,11 @@
 body {
 	background : #BCB88A;
 }
+nav {
+	clear : both;
+}
 
+/* Navigation */
 nav ul li {
 	float : left;
 	list-style-type: none;
