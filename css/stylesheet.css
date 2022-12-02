@@ -8,7 +8,7 @@ body {
 nav ul li {
 	float : left;
 	list-style-type: none;
-	margins : 10px;
+	margin : 10px;
 	padding-left : 10px;
 	background : orange;
 	
